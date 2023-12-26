@@ -1,0 +1,216 @@
+* {
+
+}
+.text h3{
+    margin-left: 95px;
+    
+}
+.text {
+    max-width: 50%;
+}
+
+.nav {
+    max-width: 50%;
+    margin-left: 690px;
+
+}
+.old-ul{
+    
+    list-style-type: none;
+    display: flex;
+
+}
+
+.navbar {
+    display: flex;
+}
+li {
+    padding-left: 30px;
+}
+
+.text-container {
+    width: 50%;
+    margin-top: 90px;
+    text-align: right;
+    left: 100px;
+    margin-right: 38px;
+}
+.text-container h1 {
+    font-size: 80px;
+    margin-left: 300px;
+   margin-left: 21px;
+   overflow-y: hidden;
+   line-height: 72.61px;
+}
+.text-container p {
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 5px;
+    margin-right: 150px;
+    
+}
+
+.img-container {
+    width: 50%;
+   
+
+}
+
+.conatiner{
+    display: flex;
+
+}
+
+.img-container img {
+    width: 550px;
+    height: 357px; 
+    margin-top: 50px;
+    
+}
+
+.box1{
+    width: 50%;
+    background-color: white;
+
+}
+.box2{
+    width: 50%;
+}
+
+/* 3rd step styling Now focus on this.*/
+
+.imagebox{
+    display: flex;
+    margin-left: 200px ;
+    margin-right: 30px;
+    margin-top: 90px;
+    border: 1px solid #E2E2E2;
+}
+.box2 img {
+    width: 100%;
+}
+
+.img1 {
+    width: 33%;
+    padding: 20px;
+    box-shadow: 12px 2px 4px rgba(248, 246, 246, 0.244);
+    height: 491px;
+    
+}
+
+.img1 img {
+    width: 411px;
+    box-shadow: 12px 2px 4px rgba(250, 244, 244, 0);
+}
+
+.imagecart {
+    margin-top: 90px;
+    display: flex;
+}
+.img1 span {
+    margin-left: 173px;
+}
+
+.lorembox{
+    width: 50%;
+    border: none;
+    background-color:  #F7FAFC;
+    text-align: center;
+}
+.picbox {
+    width: 50%;
+    border: none;
+}
+
+.containerfive{
+    display: flex;
+    margin-top: 90px;
+    margin-left:20px;
+    margin-right: 20px;
+
+}
+
+.picbox img {
+    width: 622px;  
+    
+}
+
+.lorembox h1 {
+    font-size: 40px;
+    line-height: 48.41px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lorembox p {
+    text-align: justify;
+}
+.lorembox p {
+    padding-left: 85px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 88px;
+}
+
+.date{
+    display: inline-block;
+    float: left;
+    margin-left: 84px;
+
+}
+
+.btn {
+
+    float: right;
+    color: white;
+    background-color: #6B46C1;
+    border-radius: 3px;
+    border: none;
+    height: 37px;
+    margin-top: 20px;
+    width: 110px;
+    display: block;
+    margin-right: 19px;
+}
+
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.footercontainer {
+    display: flex;
+    border: 1px solid black;
+width: 100%;
+    margin-top: 75px;
+    
+}
+.ful{
+    display: flex;
+    list-style-type: none;
+    right: 4px;
+}
+.ful li {
+    padding-left: 2px;
+    margin-left: 10px;
+    float: right;
+}
+
+.footer {
+    border: none;
+    display: flex;
+    margin-top: 5rem;
+    justify-content: space-between;
+    padding: 0 2rem;
+    width: 100%;
+}
+
+.list {
+    display: flex;
+}
+
+.f2 ul {
+    display: flex;
+    list-style-type: none;
+}
+
+
